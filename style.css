@@ -1,0 +1,175 @@
+.container{
+    width: 228px;
+  height: 426px;
+   background-color: black;
+   margin: auto;
+}
+.show{
+    color: white;
+    font-size: 40px;
+    padding-top: 146px;
+    padding-left: 145px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+.buttons{
+    display: flex;
+    padding-left: 10px;
+}
+.buttons button{
+    width: 46px;
+    height: 41px;
+    border-radius: 352px;
+    border-style: none;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.ac{
+    background-color: #a5a5a5;
+    color: #000;
+}
+.plus-minus{
+    background-color: #a5a5a5;
+    color: #000;
+}
+.percentage{
+    background-color: #a5a5a5;
+    color: #000;
+}
+.devide{
+    color: white;
+    background-color: #f1a33b;
+}
+.high{
+    display: flex;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+.high button{
+    width: 46px;
+    height: 41px;
+    border-radius: 352px;
+    border-style: none;
+    margin-left: 5px;
+    cursor: pointer;
+}
+ .nine{
+    background-color: #333;
+    color: white;
+}
+.seven{
+    background-color: #333;
+    color: white;
+}
+.eight{
+    background-color: #333;
+    color: white;
+}
+.multiply{
+    color: white;
+    background-color: #f1a33b;
+    align-items: center;
+    font-size: 40px;
+    padding-top: 6px;
+}
+
+.middle-numbers button{
+    width: 46px;
+    height: 41px;
+    border-radius: 352px;
+    border-style: none;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.middle-numbers{
+    display: flex;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+.four{
+    background-color: #333;
+    color: white;
+}
+.five{
+    background-color: #333;
+    color: white;
+}
+.six{
+    background-color: #333;
+    color: white;
+}
+.minus{
+   
+    color: white;
+    background-color: #f1a33b;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.low-numbers button{
+    width: 46px;
+    height: 41px;
+    border-radius: 352px;
+    border-style: none;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.low-numbers{
+    display: flex;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+.one{
+    background-color: #333;
+    color: white;
+}
+.two{
+    background-color: #333;
+    color: white;
+}
+.three{
+    background-color: #333;
+    color: white;
+}
+.plus{
+    color: white;
+    background-color: #f1a33b;
+    align-items: center;
+    font-size: 20px;
+}
+.last{
+    display: flex;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-left: 7px;
+}
+.zero{
+    width: 95px;
+    border-radius: 40px;
+    border-style: none;
+    height: 37px;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+.mdzime{
+    background-color: #333;
+    color: white;
+    width: 46px;
+    height: 38px;
+    border-radius: 352px;
+    border-style: none;
+    cursor: pointer;
+    margin-left:5px ;
+}
+.equal{
+    color: white;
+    background-color: #f1a33b;
+    width: 46px;
+    height: 38px;
+    border-radius: 352px;
+    border-style: none;
+    cursor: pointer;
+    margin-left:5px ;
+    font-size: 20px;
+}
